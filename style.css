@@ -1,0 +1,40 @@
+footer{
+    font-family:"Trebuchet MS";
+    color: whitesmoke;
+}
+.btn{
+    background-color: rgb(122, 89, 18);
+    color: whitesmoke;
+    cursor: pointer;
+}
+.bottom-wrapper{
+    background-color: rgb(146, 93, 28);
+    background-size: cover;
+    height: 120px;
+    width: 100%;
+}
+
+li{
+    list-style: none;
+}
+
+.footer-list{
+    line-height: 40px;
+    float: left;
+}
+
+img{
+    height: 90px;
+}
+
+.footer-logo{
+    float: right;
+    padding: 10px 10px;
+}
+
+.subscribe-box{
+    text-align: center;
+    height: 120px;
+    line-height: 10px;
+    padding-top: 3px;
+}
